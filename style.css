@@ -1,7 +1,8 @@
-body{
-    background-color: rgb(243, 238, 231);
+body {
+    background-color: rgb(243, 243, 243);
 }
-.head{
+
+.head {
     height: 150px;
     display: flex;
     flex-direction: row;
@@ -11,18 +12,8 @@ body{
     justify-content: space-evenly;
 
 }
-.head1 {
-    height: 150px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    gap: 50px;
-    width: 1300px;
-    justify-content: space-evenly;
-    font-family:nyala;
-   
-}
-.head0{
+
+.head0 {
     height: 150px;
     display: flex;
     flex-direction: row;
@@ -31,4 +22,36 @@ body{
     width: 1200px;
     justify-content: space-evenly;
     font-family: nyala;
+}
+
+.head1 {
+
+
+
+    width: 1300px;
+
+
+}
+
+.menu {
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 50px;
+    justify-content: space-evenly;
+    font-family: nyala;
+    border-bottom: 2px solid rgb(196, 187, 163);
+}
+
+.menu li {
+    list-style: none;
+    font-size: 25px;
+}
+
+.photo {
+    height: 1200px;
+    align-items: center;
+    width: 2000px;
+
 }
