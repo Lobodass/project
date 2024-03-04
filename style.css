@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(243, 238, 231);
+}
+.head{
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 50px;
+    width: 1600px;
+    justify-content: space-evenly;
+
+}
+.head1 {
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 50px;
+    width: 1300px;
+    justify-content: space-evenly;
+    font-family:nyala;
+   
+}
+.head0{
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 50px;
+    width: 1200px;
+    justify-content: space-evenly;
+    font-family: nyala;
+}
