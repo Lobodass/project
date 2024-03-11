@@ -53,7 +53,19 @@ body {
 
 .photo {
     height: 1000px;
-    align-items: center;
-    width: 1700px;
+    width: 2000px;
+    align-items: center; 
+    justify-content: center; 
+    background-image: url("Untitled Project.jpg");
+    display: flex;
+    background-size: cover;
+    align-content: center;
 
+}
+
+.text{
+    display: flex;
+    top: 50%;
+    color: aliceblue;
+    position: center;
 }
