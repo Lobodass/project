@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 255, 255);
+    background: color F 4F 4F 4px;;
 }
 
 .head {
@@ -22,9 +22,13 @@ body {
     width: 1200px;
     justify-content: space-evenly;
 
+
     font-family:Courier Georgia, serif ;
 
     font-family: jester;
+
+    font-family: monospace;
+
     color: rgb(107, 103, 103);
 
 }
@@ -45,9 +49,10 @@ body {
     align-items: center;
     gap: 50px;
     justify-content: space-evenly;
-    font-family: zapfellipt bt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     border-bottom: 2px solid rgb(114, 94, 89);
     color: rgb(114, 94, 89);
+    font-size: 50%;
 }
 
 .menu li {
@@ -57,7 +62,160 @@ body {
 
 .photo {
     height: 1000px;
-    align-items: center;
-    width: 1700px;
+    width: 1895px;
+    align-items: center; 
+    justify-content: center; 
+    background-image: url("images/bg_vish.jpg");
+    display: flex;
+    background-size: cover;
+    align-content: center;
+    
 
+}
+
+.text{
+    display: flex;
+    top: 50%;
+    color: aliceblue;
+    position: center;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Cities{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 200px;
+    gap: 70px;
+    justify-content: center;
+    border-top: 5px solid rgb(114, 94, 89);
+    
+}
+.Zhytomyr{
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    height: px;
+    width: px;
+    border: solid;
+    background: rgb(230, 218, 218);
+    border-radius: 15px;
+   padding-right: 15px;
+   padding-left: 15px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    border-style: none;
+}
+.Kyiv{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    height: px;
+    width: px;
+    border: solid;
+    background: rgb(230, 218, 218);
+    border-radius: 15px;
+   padding-right: 15px;
+   padding-left: 15px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    border-style: none;
+}    
+.Lviv{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    height: px;
+    width: px;
+    border: solid;
+    background: rgb(230, 218, 218);
+    border-radius: 15px;
+   padding-right: 15px;
+   padding-left: 15px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    border-style: none;
+}
+.photo1{
+    height: 800px;
+    width: 1000px;
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+.ukraine{
+    display: flex;
+    flex-direction: row;
+    padding-top: 100px;
+    gap: 200px;
+}
+.list{
+    display: flex;
+    padding-top: 100px;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    
+}
+.Volyn{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    height: px;
+    width: px;
+    border: solid;
+    background: rgb(230, 218, 218);
+    border-radius: 15px;
+   padding-right: 15px;
+   padding-left: 15px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    border-style: none;
+}
+.Bukovyna{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    height: px;
+    width: px;
+    border: solid;
+    background: rgb(230, 218, 218);
+    border-radius: 15px;
+   padding-right: 15px;
+   padding-left: 15px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    border-style: none;
+}
+.contacts{
+    background-color: rgb(214, 214, 214);
+    height: 100px;
+    border-left: 5px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    border: solid;
+    border-radius: 1px;
+    border-style: none;
+    display: flex;
+    flex-direction: row;
+    
+  
+}
+.end{
+    border-left: 2px solid rgb(165, 165, 165);
+    display: flex;
+    padding-left: 30px;
 }
