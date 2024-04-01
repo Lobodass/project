@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(243, 243, 243);
+    background-color: rgb(255, 255, 255);
 }
 
 .head {
@@ -21,7 +21,12 @@ body {
     gap: 50px;
     width: 1200px;
     justify-content: space-evenly;
+
     font-family:Courier Georgia, serif ;
+
+    font-family: jester;
+    color: rgb(107, 103, 103);
+
 }
 
 .head1 {
@@ -40,8 +45,9 @@ body {
     align-items: center;
     gap: 50px;
     justify-content: space-evenly;
-    font-family: nyala;
-    border-bottom: 2px solid rgb(196, 187, 163);
+    font-family: zapfellipt bt;
+    border-bottom: 2px solid rgb(114, 94, 89);
+    color: rgb(114, 94, 89);
 }
 
 .menu li {
@@ -50,8 +56,8 @@ body {
 }
 
 .photo {
-    height: 1200px;
+    height: 1000px;
     align-items: center;
-    width: 2000px;
+    width: 1700px;
 
 }
