@@ -243,3 +243,30 @@ body {
 .ogo{
 width: 160px;
 }
+.top{
+    display: flex;
+
+}
+.ppp{
+    padding-top: 130px;
+    font-size: 30px;
+}
+.pot{
+    display: flex;
+    padding-top:100px ;
+    padding-bottom: 100px;
+}
+.bbb{
+    padding-top: 130px;
+    font-size: 30px;
+    padding-left:50px ;
+}
+.vinvin{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 100px;
+    gap: 70px;
+    justify-content: center;
+    padding-bottom: 100px;
+}
