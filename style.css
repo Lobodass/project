@@ -298,3 +298,36 @@ width: 160px;
     justify-content: center;
     padding-bottom: 100px;
 }
+.zzz{
+    display: flex;
+}
+.nnn{
+    padding-top: 130px;
+    font-size: 30px;
+    padding-left: 70px;
+}
+.ddd{
+    display: flex;
+    padding-top: 100px;
+}
+.ccc{
+    padding-top: 90px;
+    font-size: 30px;
+    padding-right: 30px;
+}
+.hop{
+    display: flex;
+}
+.vvv{
+    padding-top: 130px;
+    font-size: 30px;
+}
+.kkk{
+    display: flex;
+    padding-top: 100px;
+}
+.ggg{
+    padding-top: 130px;
+    font-size: 30px;
+    padding-left:50px ;
+}
