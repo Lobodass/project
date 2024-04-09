@@ -280,21 +280,21 @@ width: 160px;
 }
 .pom{
     display: flex;
-    padding-top: 40px;
+    padding-top: 20px;
     gap: 80px;
     padding-left:100px; 
 }
 .qqq{
    
     font-size: 50px;
-    padding-left:560px ;
+    padding-left:600px ;
 }
 .nipnip{
     display: flex;
     flex-direction: row;
     align-items: center;
     padding-top: 100px;
-    gap: 70px;
+    gap: 50px;
     justify-content: center;
     padding-bottom: 100px;
 }
