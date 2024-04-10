@@ -1,5 +1,10 @@
 body {
-    background: color F 4F 4F 4px;;
+    background: color F 4F 4F 4px;
+   
+}
+
+.content{
+    width: 50%;
 }
 
 .head {
@@ -282,12 +287,12 @@ width: 160px;
     display: flex;
     padding-top: 20px;
     gap: 80px;
-    padding-left:100px; 
+    padding-left:250px; 
 }
 .qqq{
    
     font-size: 50px;
-    padding-left:600px ;
+    padding-left:750px ;
 }
 .nipnip{
     display: flex;
