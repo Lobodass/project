@@ -336,3 +336,166 @@ width: 160px;
     font-size: 30px;
     padding-left:50px ;
 }
+
+@media screen and (max-width:420px) {
+    .head {
+        height: 150px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 50px;
+        width: 1000px;
+        justify-content: space-evenly;
+    }
+    .photo {
+        height: 1000px;
+        width: 1100px;
+        align-items: center;
+        justify-content: center;
+        background-image: url(images/bg_vish.jpg);
+        display: flex;
+        background-size: cover;
+        align-content: center;
+    }
+    .Cities {
+        width: 1100px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-top: 200px;
+        gap: 85px;
+        justify-content: center;
+        flex-wrap: nowrap;
+    }
+    .Zhytomyr {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: space-evenly;
+        align-items: center;
+        height: px;
+        width: 650px;
+        border: solid;
+        background: rgb(230, 218, 218);
+        border-radius: 15px;
+        padding-right: 15px;
+        padding-left: 15px;
+        padding-top: 80px;
+        padding-bottom: 50px;
+        border-style: none;
+    }
+.Kyiv {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    height: px;
+    width: 650px;
+    border: solid;
+    background: rgb(230, 218, 218);
+    border-radius: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    border-style: none;
+}
+.pho{
+    width: 600px;
+}
+.photo1 {
+    height: 400px;
+    width: 550px;
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+.Lviv {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    height: px;
+    width: 650px;
+    border: solid;
+    background: rgb(230, 218, 218);
+    border-radius: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    border-style: none;
+}
+.Volyn {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    height: px;
+    width: 650px;
+    border: solid;
+    background: rgb(230, 218, 218);
+    border-radius: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    border-style: none;
+}
+.Bukovyna {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    height: px;
+    width: 650px;
+    border: solid;
+    background: rgb(230, 218, 218);
+    border-radius: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    border-style: none;
+}
+.ukraine {
+    display: flex;
+    padding-top: 40px;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+.photo1 {
+    padding-left: 120px;
+    height: 600px;
+    width: 800px;
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+.obl {
+    width: 1000px;
+    padding-top: 00px;
+    padding-left: 100px;
+}
+.contacts {
+    background-color: rgb(214, 214, 214);
+    height: 100px;
+    border-left: 5px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    border: solid;
+    border-radius: 1px;
+    border-style: none;
+    display: flex;
+    flex-direction: row;
+    width: 1100px;
+}
+}
